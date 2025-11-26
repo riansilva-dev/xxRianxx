@@ -9,7 +9,9 @@ Busco colaborar em projetos envolvendo desenvolvimento backend, automação, API
 Se quiser trocar uma ideia sobre TI, desenvolvimento, carreira ou projetos, é só chamar.
 
 📫 Contato
+
 📨 riansilvasantos04@gmail.com
+
 <a href="https://www.linkedin.com/in/riansilva-dev/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20"/> </a>
 
 Tecnologias e Ferramentas
