@@ -1,42 +1,16 @@
-## Eaeeeee 👋
+Eaee 👋
 
-🔭 "Atualmente, estou trabalhando como Suporte Técnico de TI na PCX Tecnologia, focado na manutenção de hardware e software de desktops e notebooks. Também ajudo a solucionar problemas referentes à parte de redes e servidores."
+Atualmente trabalho como Técnico de TI N4 na Fundação Dom Cabral (via Cabtec by Kyubi), atuando com ambiente cloud, gestão de usuários, segurança, provisionamento de dispositivos e suporte avançado. Essa experiência me deu uma base sólida em infraestrutura, lógica, diagnóstico e solução de problemas.
 
-🌱 aprendendo linguagens de programação e explorando o desenvolvimento de software, com o objetivo de migrar para a carreira de desenvolvedor. Estou ansioso por novas oportunidades nesse meio.
+Estou em transição para a área de desenvolvimento backend, estudando Java, Spring Boot, bancos de dados, Docker e boas práticas de engenharia. Meu foco é construir APIs, entender arquitetura e evoluir para atuar como desenvolvedor Java.
 
-🔍 Estou procurando colaborar em projetos que envolvam desenvolvimento de software, automação de processos e soluções inovadoras na área de TI.
+Busco colaborar em projetos envolvendo desenvolvimento backend, automação, APIs REST e qualquer solução prática que envolva tecnologia. Gosto de aprender coisas novas e estou sempre melhorando minhas habilidades.
 
-🤔 Estou procurando ajuda com boas práticas de desenvolvimento, aprimoramento de linguagens de programação e oportunidades para me estabelecer como desenvolvedor.
+Se quiser trocar uma ideia sobre TI, desenvolvimento, carreira ou projetos, é só chamar.
 
-💬 Pergunte-me sobre TI, soluções de hardware/software, linguagens de programação e transição de carreira para desenvolvimento.
+📫 Contato
+📨 riansilvasantos04@gmail.com
 
-📫 Como entrar em contato comigo: Me envie um e-mail ou conecte-se pelas redes sociais para conversarmos!
-
-  📨 riansilvansantos04@gmail.com
-       
-  <a href=https://www.linkedin.com/in/rian-silva-a37153198/>
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20"/>
-  </a>
-
-
-  
-⚡ Curiosidade: Além do meu background técnico, tenho experiência em áudio digital e analógico e projeção de vídeo, mas agora estou focado em transformar códigos em soluções reais!
-
-
-## Atualmente estou estudando...
-
-  <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />  <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
-
-
-## 	Estatísticas	💪
-
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxRianxx&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=xxRianxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-</div>
-
-
-          
+<a href="https://www.linkedin.com/in/riansilva-dev/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20"/> </a>
+Tecnologias e Ferramentas
+<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge"/> </p>
